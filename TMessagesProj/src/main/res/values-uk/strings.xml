@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">n0gram</string>
+    <string name="AppNameBeta">n0gram Beta</string>
     <string name="LanguageName">Українська</string>
     <string name="English">Англійська</string>
     <string name="LanguageNameInEnglish">Ukrainian</string>
@@ -33,15 +33,15 @@
     <!--code enter view-->
     <string name="YourCode">Підтвердження номера</string>
     <string name="SentSmsCode">Ми надіслали SMS із кодом активації на ваш телефон **%1$s**.</string>
-    <string name="SentAppCode">Ми надіслали код до **Telegram** на іншому вашому пристрої.</string>
-    <string name="SentAppCodeWithPhone">Ми надіслали код до **Telegram** для %1$s на іншому вашому пристрої.</string>
-    <string name="SentAppCodeTitle">Перевірте повідомлення в Telegram</string>
+    <string name="SentAppCode">Ми надіслали код до **n0gram** на іншому вашому пристрої.</string>
+    <string name="SentAppCodeWithPhone">Ми надіслали код до **n0gram** для %1$s на іншому вашому пристрої.</string>
+    <string name="SentAppCodeTitle">Перевірте повідомлення в n0gram</string>
     <string name="SentFragmentCode">Отримайте код для %1$s у розділі «Anonymous Numbers» на Fragment.</string>
     <string name="SentSmsCodeTitle">Введіть код</string>
     <string name="OpenFragment">Відкрити Fragment</string>
     <string name="SentCallCode">Ми телефонуємо на ваш номер **%1$s**.\n\nВідповідати на виклик не потрібно, Telegram автоматично зробить усе сам.</string>
     <string name="SentCallOnly">Ми телефонуємо на номер **%1$s**, щоб продиктувати код.</string>
-    <string name="CallText">Telegram зателефонує вам за %1$d:%2$02d</string>
+    <string name="CallText">n0gram зателефонує вам за %1$d:%2$02d</string>
     <string name="SmsText">Ми надішлемо вам SMS за %1$d:%2$02d</string>
     <string name="Calling">Телефонуємо вам...</string>
     <string name="SendingSms">Надсилаємо SMS...</string>
@@ -61,7 +61,7 @@
     <string name="CancelLinkExpired">Посилання недійсне або застаріле.</string>
     <string name="CancelLinkSuccessTitle">Успіх!</string>
     <string name="CancelLinkSuccess">Процес видалення вашого акаунта %1$s було скасовано. Зараз ви можете закрити це вікно.</string>
-    <string name="OtherLoginCode">Ваш код для входу – **%1$s**. Введіть його у програмі Telegram, через яку ви хочете увійти.\n\nНе повідомляйте цей код нікому.</string>
+    <string name="OtherLoginCode">Ваш код для входу – **%1$s**. Введіть його у програмі n0gram, через яку ви хочете увійти.\n\nНе повідомляйте цей код нікому.</string>
     <string name="SmsAvailableIn">Ви зможете зробити запит на SMS за %1$d:%2$02d</string>
     <string name="ResendSmsAvailableIn">Ви зможете зробити запит на SMS за %1$d:%2$02d</string>
     <string name="RequestSmsButton">Отримати код в SMS-повідомленні</string>
@@ -222,18 +222,18 @@
     <string name="CheckYourNewEmailSubtitle">Введіть код, який ми щойно надіслали на вашу нову е-пошту %1$s.</string>
     <string name="LoginOrSingInWithGoogle">або</string>
     <!--Intro view-->
-    <string name="Page1Title">Telegram</string>
+    <string name="Page1Title">n0gram</string>
     <string name="Page2Title">Швидкий</string>
     <string name="Page3Title">Безплатний</string>
     <string name="Page4Title">Захищений</string>
     <string name="Page5Title">Потужний</string>
     <string name="Page6Title">Хмарний</string>
     <string name="Page1Message">**Найшвидший** месенджер у світі.\n**Безплатний** і **захищений**.</string>
-    <string name="Page2Message">**Telegram** доставляє повідомлення\nшвидше за всі інші застосунки.</string>
-    <string name="Page3Message">У **Telegram** можна безплатно зберігати\nскільки завгодно повідомлень і медіафайлів.</string>
-    <string name="Page4Message">**Telegram** оберігає ваші повідомлення\nвід хакерських атак.</string>
-    <string name="Page5Message">**Telegram** не обмежує вас\nу розмірі чатів і медіа.</string>
-    <string name="Page6Message">**Telegram** надає вам доступ до\nповідомлень з безлічі пристроїв.</string>
+    <string name="Page2Message">**n0gram** доставляє повідомлення\nшвидше за всі інші застосунки.</string>
+    <string name="Page3Message">У **n0gram** можна безплатно зберігати\nскільки завгодно повідомлень і медіафайлів.</string>
+    <string name="Page4Message">**n0gram** оберігає ваші повідомлення\nвід хакерських атак.</string>
+    <string name="Page5Message">**n0gram** не обмежує вас\nу розмірі чатів і медіа.</string>
+    <string name="Page6Message">**n0gram** надає вам доступ до\nповідомлень з безлічі пристроїв.</string>
     <string name="StartMessaging">Почати спілкування</string>
     <!--date formatters-->
     <string name="formatterBoostExpired">dd MMM yyyy</string>
